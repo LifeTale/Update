@@ -1,0 +1,11 @@
+{
+  "pc": {
+    "sums_url": "LifeTale-1.0-pc.sums", 
+    "version": "f810be4c0512e95ce2e35b12de34546da744723ef6dd787b4f7bf74a14fb992b", 
+    "zsync_url": "LifeTale-1.0-pc.zsync", 
+    "json_url": "LifeTale-1.0-pc.update.json", 
+    "pretty_version": "1.0", 
+    "sums_size": 9780, 
+    "digest": "5a6da4d0b5d6dce36ecbd4d84471d84128f96d13181161383035b0116db65dfa"
+  }
+}
